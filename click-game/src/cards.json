@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Vega",
+    "image": "http://www.sfgalleries.net/art/sf2/sf2ce/series1/balrog.gif",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Blanka",
+    "image": "http://www.sfgalleries.net/art/sf2/sf2ce/series1/blanka.gif",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Chun Li",
+    "image": "http://www.sfgalleries.net/art/sf2/sf2ce/series1/chun-li.gif",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Dhalsim",
+    "image": "http://www.sfgalleries.net/art/sf2/sf2ce/series1/dhalsim.gif",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "E. Honda",
+    "image": "http://www.sfgalleries.net/art/sf2/sf2ce/series1/ehonda.gif",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Guile",
+    "image": "http://www.sfgalleries.net/art/sf2/sf2ce/series1/guile.gif",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Ken",
+    "image": "http://www.sfgalleries.net/art/sf2/sf2ce/series1/ken.gif",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "Balrog",
+    "image": "http://www.sfgalleries.net/art/sf2/sf2ce/series1/mbison.gif",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Ryu",
+    "image": "http://www.sfgalleries.net/art/sf2/sf2ce/series1/ryu.gif",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "Sagat",
+    "image": "http://www.sfgalleries.net/art/sf2/sf2ce/series1/sagat.gif",
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "M. Bison",
+    "image": "http://www.sfgalleries.net/art/sf2/sf2ce/series1/vega.gif",
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "Zangief",
+    "image": "http://www.sfgalleries.net/art/sf2/sf2ce/series1/zangief.gif",
+    "count": 0
+  }
+]
